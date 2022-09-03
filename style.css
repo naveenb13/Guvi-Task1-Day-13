@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.logo-img {
+    float: left;
+    position: relative;
+    margin-top: 5px;
+}
+
+.div1 {
+    position: fixed;
+}
+
+.column1 {
+    display: grid;
+    position: relative;
+    top: 30px;
+    width: 430px;
+    padding-top: 200px;
+    padding-bottom: 500px;
+    background-color: rgb(54, 54, 54);
+    border-radius: 20px;
+}
+
+.column2 {
+    display: grid;
+    position: relative;
+    top: 100px;
+    padding-top: 35px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.column3 {
+    display: grid;
+    position: relative;
+    top: 100px;
+}
+
+input {
+    position: relative;
+    left: 270px;
+    top: 80px;
+    width: 650px;
+    background-color: rgb(54, 54, 54);
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.column5 {
+    display: grid;
+    background-color: rgb(54, 54, 54);
+    position: relative;
+    left: 150px;
+    top: 100px;
+    width: 250px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.column6 {
+    display: grid;
+    background-color: rgb(54, 54, 54);
+    position: relative;
+    left: 250px;
+    top: 100px;
+    width: 250px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.column7 {
+    display: grid;
+    background-color: rgb(54, 54, 54);
+    position: relative;
+    left: 350px;
+    top: 100px;
+    width: 250px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.column8 {
+    display: grid;
+    background-color: rgb(54, 54, 54);
+    position: relative;
+    left: 150px;
+    top: 100px;
+    width: 950px;
+    height: 200px;
+    border-radius: 15px;
+}
